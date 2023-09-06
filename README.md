@@ -51,7 +51,7 @@ Here we can see the table which contain 4 kind of sports.The first coloumn is na
 # Code Fencing
 > How to use ' and " in PHP string? 
 
-<https://stackoverflow.com/questions/71669707/how-to-use-and-in-php-string>
+[Source code for the snippet](https://stackoverflow.com/questions/71669707/how-to-use-and-in-php-string)
 
 ```
 <?php 
@@ -68,4 +68,4 @@ echo startsWith("dog", "x"); // false
 ?> 
 
 ```
-<https://css-tricks.com/snippets/php/test-if-string-starts-with-certain-characters-in-php/>
+[Source code for the snippet](https://css-tricks.com/snippets/php/test-if-string-starts-with-certain-characters-in-php/)
