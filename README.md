@@ -43,9 +43,9 @@ Here we can see the table which contain 4 kind of sports.The first coloumn is na
 ---
 
 # Quotes for life
-> Life is like riding a bicycle.To keep your balance,you must keep moving   ~ *Albert Einstein*
->
-> Everything is theoretically impossible,until it is done   ~ *Robert A, Heinlein*
+> "Life is like riding a bicycle.To keep your balance,you must keep moving"   ~ *Albert Einstein*
+
+> "Everything is theoretically impossible,until it is done"   ~ *Robert A, Heinlein*
 
 ---
 # Code Fencing
